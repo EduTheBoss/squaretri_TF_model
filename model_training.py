@@ -1,3 +1,4 @@
+#! FIle not finished yet, just a draft
 import os
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
